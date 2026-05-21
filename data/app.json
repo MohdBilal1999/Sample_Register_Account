@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "user_1779355165777_txgcm4p",
+      "name": "Test User",
+      "email": "test@example.com",
+      "mobile": "+15551234567",
+      "passwordHash": "$2b$10$OGXAdffeDcy2Do.UkrJhuerAAAAveTVYSjOoS/1bhWGnQjlrr12Q6",
+      "createdAt": "2026-05-21T09:19:25.777Z"
+    },
+    {
+      "id": "user_1779355703449_oy24v5q",
+      "name": "Bilal",
+      "email": "bilal@gmail.com",
+      "mobile": "+8428771524",
+      "passwordHash": "$2b$10$QJ5p8ArHtdNlaxBZ3IB9j.bwJBBrHQiNJEXYOcUT.W3gSnAObsHM6",
+      "createdAt": "2026-05-21T09:28:23.449Z"
+    },
+    {
+      "id": "user_1779362257250_urv1k18",
+      "name": "Bilal",
+      "email": "bilal1@gmail.com",
+      "mobile": "+84287715241",
+      "passwordHash": "$2b$10$R0rW1OJX8wtjH702wdxXruy3wqfCJ8uVsqD72TpL9.6kEy/WGl.ym",
+      "createdAt": "2026-05-21T11:17:37.250Z"
+    },
+    {
+      "id": "user_1779365500770_52kpe9t",
+      "name": "msn",
+      "email": "dasn@gmail.com",
+      "mobile": "+9487040534",
+      "passwordHash": "$2b$10$l2ioU9v36Koql0ehDNEV3.XXb2/E/Z4paIM0byc3uHphIc0xX56zK",
+      "createdAt": "2026-05-21T12:11:40.770Z"
+    },
+    {
+      "id": "user_1779365668199_nunn9kx",
+      "name": "Bilal",
+      "email": "dason@gmail.com",
+      "mobile": "+8428771522",
+      "passwordHash": "$2b$10$PalJRcBe1Z50pVDN6TAH.us.WKAt.hyz4HCoUrG8lWnbrcHPA5A3y",
+      "createdAt": "2026-05-21T12:14:28.199Z"
+    }
+  ],
+  "otpSessions": [
+    {
+      "mobile": "+9487040434",
+      "otpHash": "$2b$10$sH7Nl7fmxJCwcC6Lt5zviOCjA9c1vS5dN3BjydPYbYWHaeaVENDaO",
+      "expiresAt": 1779383049157,
+      "attempts": 0,
+      "verified": false,
+      "lastSentAt": 1779382749157
+    }
+  ],
+  "rateLimits": [
+    {
+      "key": "otp:+9487040434",
+      "timestamp": 1779382749168
+    }
+  ]
+}
